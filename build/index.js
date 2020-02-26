@@ -1,4 +1,5 @@
 "use strict";
+/* eslint-disable no-console */
 Object.defineProperty(exports, "__esModule", { value: true });
 var net_1 = require("net");
 var child_process_1 = require("child_process");
